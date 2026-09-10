@@ -1,0 +1,20 @@
+# Simulation outputs
+*.vcd
+*.vcd.gz
+*.fsdb
+*.log
+simv
+simv.daidir/
+csrc/
+DVEfiles/
+ucli.key
+
+# Synopsys generated files
+work/
+*.syn
+*.svf
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
